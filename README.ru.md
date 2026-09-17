@@ -140,7 +140,7 @@ PyInstaller «упаковывает» Python-код в один `.exe`, и эт
 
 ## 🔗 Другие приложения от автора
 
-- ⏻ [Таймер выключения](https://github.com/SKRRIXZZ/shutdown-timer) — таймер выключения / перезагрузки / сна / гибернации ПК
+- 🌤 [Погода в трее](https://github.com/SKRRIXZZ/tray-weather) — температура прямо на иконке в трее
 - 🌐 [Мини-переводчик](https://github.com/SKRRIXZZ/mini-translator) — переводчик буфера обмена с глобальным хоткеем
 - ⬇ [Скачиватель видео и музыки](https://github.com/SKRRIXZZ/video-music-downloader) — GUI-скачиватель на базе yt-dlp
 
