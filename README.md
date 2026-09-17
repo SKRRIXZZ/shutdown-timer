@@ -140,7 +140,7 @@ PyInstaller "packs" Python code into a single `.exe`, which sometimes looks susp
 
 ## 🔗 More apps by the same author
 
-- ⏻ [Shutdown Timer](https://github.com/SKRRIXZZ/shutdown-timer) — PC shutdown / restart / sleep / hibernate timer
+- 🌤 [Tray Weather](https://github.com/SKRRIXZZ/tray-weather) — live temperature right on the tray icon
 - 🌐 [Mini Translator](https://github.com/SKRRIXZZ/mini-translator) — clipboard translator with a global hotkey
 - ⬇ [Video & Music Downloader](https://github.com/SKRRIXZZ/video-music-downloader) — GUI downloader based on yt-dlp
 
