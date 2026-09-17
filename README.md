@@ -6,6 +6,13 @@ Multi-language PC shutdown / restart / sleep / hibernate timer with a minimalist
 
 ---
 
+## 📸 Screenshot
+
+Main window<img width="714" height="870" alt="screenshot-main" src="https://github.com/user-attachments/assets/c5edda8e-c766-4011-9e1a-c428454e5e41" />
+
+
+---
+
 ## ✨ Features
 - Shutdown / Restart / Sleep / Hibernate
 - Countdown "after N time" or "at a specific time"
